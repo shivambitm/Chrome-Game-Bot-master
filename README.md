@@ -9,3 +9,5 @@ Following is the code for an Arduino Bot to play Chrome's Dino Game using 1 or 2
 <div align="center">
   <img alt="See Demo Video Here" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/0%20(2).mp4" width="1000" />
 </div>
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
