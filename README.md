@@ -6,6 +6,7 @@ Following is the code for an Arduino Bot to play Chrome's Dino Game using 1 or 2
 ## see demo here
 <div align="left">
   <img alt="Logo" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/VID-20201117-WA0007.gif" width="350" />
+  <img alt="Logo" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/VID-20201117-WA0007.gif" width="350" />
    <img alt="Logo" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/VID-20201117-WA0009.gif" width="350" />
   <img alt="Logo" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/VID-20201117-WA0010.gif" width="350" />
   
