@@ -7,5 +7,5 @@ Following is the code for an Arduino Bot to play Chrome's Dino Game using 1 or 2
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <div align="center">
-  <img alt="Demo Video" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/0%20(2).mp4" width="1000" />
+  <img alt="See Demo Video Here" src="https://github.com/shivamkumar0611/Chrome-Game-Bot-master/blob/main/files/0%20(2).mp4" width="1000" />
 </div>
